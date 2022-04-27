@@ -21,7 +21,8 @@
 <br/>
 
 
-<h4> 🤓 &nbsp;Deployed </h4>
+<h4> 🤓 &nbsp;Deployed and working </h4>
+&nbsp;
 ![Secret Santa](https://gaspicastello.github.io/secretsanta/)
 <br/>
 
