@@ -21,9 +21,9 @@
 <br/>
 
 
-<h4> 🤓 &nbsp;Deployed and working </h4>
-* **Secret Santa**, -[Link](https://gaspicastello.github.io/secretsanta/)
-![Secret Santa](https://gaspicastello.github.io/secretsanta/)
+<h4> 🤓 &nbsp;Deployed </h4>
+Secret Santa, - https://gaspicastello.github.io/secretsanta/
+
 <br/>
 
 <h4> 🤝 &nbsp;Let's connect </h4>
