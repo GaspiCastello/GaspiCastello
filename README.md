@@ -23,7 +23,7 @@
 
 <h4> 🤓 &nbsp;Deployed </h4>
 * **Secret Santa** - https://gaspicastello.github.io/secretsanta/
-* **Menu Restó app** - https://main--gentle-gumdrop-53b945.netlify.app
+* **Menu Restó app** - https://main--gentle-gumdrop-53b945.netlify.app (Needs to disable mixed active content blocker following [this](https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en) instruction on your browser)
 
 <br/>
 
