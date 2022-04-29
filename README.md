@@ -22,7 +22,8 @@
 
 
 <h4> 🤓 &nbsp;Deployed </h4>
-Secret Santa, - https://gaspicastello.github.io/secretsanta/
+* **Secret Santa** - https://gaspicastello.github.io/secretsanta/
+* **Menu Restó app** - https://main--gentle-gumdrop-53b945.netlify.app
 
 <br/>
 
