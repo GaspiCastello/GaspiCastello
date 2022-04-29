@@ -24,7 +24,8 @@
 <h4> 🤓 &nbsp;Deployed apps </h4>
 <ul>
   <li><a href="https://gaspicastello.github.io/secretsanta/">Secret Santa</a></li>
-  <li><a href="https://main--gentle-gumdrop-53b945.netlify.app">Menu restó app -></a><span><a href="https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en"><span> Needs to disable mixed active content blocker following  instruction on your browser</span></a></li>
+  <li><a href="https://main--gentle-gumdrop-53b945.netlify.app">Menu restó app -></a><span><a href="https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en"><span> Needs to disable mixed active content blocker following  instruction on your browser</span></a></li><br/>
+   &nbsp;user:challenge@alkemy.org, pass:react
 </ul>
 <br/>
 
