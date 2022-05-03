@@ -4,7 +4,7 @@ Hi 👋 My name is Gaspar
 Front end dev with React
 ------------------------
 
-I've started with programming after switching from mech eng. I've worked with html css and javascript and quickly fell in love with React, after that I could not stop learning more about libraries and new techs.
+I've started with programming after switching from mech eng. I've been working with HTML,CSS,JS and quickly fell in love with React, after that I could not stop learning more about libraries and new techs.
 
 *   🌍  I'm based in Rosario, Santa fe
 *   ✉️  You can contact me at [gasparcastello@gmail.com](mailto:gasparcastello@gmail.com)
