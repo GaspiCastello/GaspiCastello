@@ -16,6 +16,8 @@ I've started with programming after switching from mech eng. I've been working w
   <li><a href="https://main--gentle-gumdrop-53b945.netlify.app">Menu restó app -></a><span><a href="https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en"><span> Needs to disable mixed active content blocker following  instruction on your browser</span></a>
    <p>user:challenge@alkemy.org, pass:react</p></li>
     <li><a href="https://nautica-el-faro-main.vercel.app/">Nautica El faro</a></li>
+  <li><a href="https://aerolabs-challenge.vercel.app/">Aerolabs challenge, fidelity program platform</a></li>
+  
 </ul>
 
 ### Skills
