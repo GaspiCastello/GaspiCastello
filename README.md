@@ -1,7 +1,7 @@
 Hi 👋 My name is Gaspar
 =======================
 
-Front end dev with React
+Front end developer
 ------------------------
 
 I've started with programming after switching from mech eng. I've been working with HTML,CSS,JS and quickly fell in love with React, after that I could not stop learning more about libraries and new techs.
