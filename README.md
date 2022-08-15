@@ -7,7 +7,7 @@ Front end developer
 I've started with programming after switching from mech eng. I've been working with HTML,CSS,JS and quickly fell in love with React, after that I could not stop learning more about libraries and new techs.
 
 *   🌍  I'm based in Rosario, Santa fe
-*   ✉️  You can contact me at [gasparcastello@gmail.com](mailto:gasparcastello@gmail.com)
+*   ✉️  You can contact me at [gasparcastello@gmail.com](mailto:gasparcastello@gmail.com) or [Whatsapp](https://api.whatsapp.com/send?phone=543426156014&text=Hola%20Gaspar%2C%20vi%20tu%20CV%20y)
 *   🧠  I'm learning Swift
 *   🤝  I'm open to collaborating on Certified B Corps
 *   ⚡  Deployed:
